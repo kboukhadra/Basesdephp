@@ -54,4 +54,12 @@ foreach ($tab as $valeur) {
 }
 
 
+$tab1=array(18,59,510,511);
+foreach ($tab as $valeur) {
+    echo $valeur ;
+    echo'</br>';
+
+}
+
+
 ?>
