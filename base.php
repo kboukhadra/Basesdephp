@@ -61,5 +61,8 @@ foreach ($tab as $valeur) {
 
 }
 
+$a = 'khalid' ;
+
+
 
 ?>
