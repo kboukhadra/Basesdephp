@@ -46,4 +46,12 @@ while( (($x>$y) OR ($x%2==1) ) OR   (($y>$z) OR ($y%2==0) )  OR ($z%2==0)    ) ;
 echo $x.' , '.$y.' , '.$z ;
 echo'</br>';
 
+$tab=array(8,9,10,11);
+foreach ($tab as $valeur) {
+    echo $valeur ;
+    echo'</br>';
+
+}
+
+
 ?>
